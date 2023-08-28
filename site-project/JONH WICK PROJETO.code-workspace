@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Área de Trabalho/Estudos/curso html e css guanabira/ex001"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Área de Trabalho/Estudos/curso html e css guanabira/ex003"
+		},
+		{
+			"path": "../../../Área de Trabalho/Estudos/curso html e css guanabira/ex004"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projeto 1"
+	}
+}
